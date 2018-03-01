@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EPR.CLI.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "pid 03688678"
+    }
+  }
+}
